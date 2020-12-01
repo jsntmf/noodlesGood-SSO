@@ -2,7 +2,6 @@ package com.noodlesGuo.ssoClient.controller;
 
 import com.noodlesGuo.ssoClient.constants.SsoServerConstants;
 import com.noodlesGuo.ssoClient.service.AuthService;
-import com.sun.deploy.net.HttpResponse;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpRequest;
